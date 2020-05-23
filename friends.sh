@@ -10,8 +10,8 @@ echo "
 ┻┳T￣
                                                                                                                                                                                          
 ╔═════════════════════════════╗
-║Author :FR13NDS                    ║
-║GitHub :FR13NDS666                 ║
+║Author :FR13NDS                   ║
+║GitHub :FR13NDS666                ║
 ╚═════════════════════════════╝""" | lolcat
 
 sleep 2
